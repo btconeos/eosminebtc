@@ -1,1 +1,1 @@
-# eosminebtc
+# BTC on EOS
